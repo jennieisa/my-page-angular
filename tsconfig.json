@@ -8,6 +8,14 @@
     "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
+    "paths": {
+      "app-todo-list": [
+        "dist/app-todo-list"
+      ],
+      "lib": [
+        "dist/lib"
+      ]
+    },
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
